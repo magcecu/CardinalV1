@@ -1,0 +1,18 @@
+Locate the "cardinal.exe" file on your computer. Typically, you can find it in the folder where you downloaded it.
+
+Double-click on the "cardinal.exe" file to begin the installation process. Follow the on-screen instructions to install the application.
+
+If you encounter an error during installation or when running the application, check to see if there is a file called "requirements.txt" in the same folder as the "cardinal.exe" file.
+
+If "requirements.txt" is present, open a command prompt or terminal window on your computer.
+
+Type the following command into the command prompt or terminal window:
+
+(Copy code)
+pip install -r requirements.txt
+
+This will install any required dependencies or packages listed in the "requirements.txt" file.
+
+Once the installation is complete, try running "cardinal.exe" again to see if the error has been resolved.
+
+That's it! Hopefully, these steps will help you install and run "cardinal.exe" without any issues.

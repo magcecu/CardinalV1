@@ -1,0 +1,6 @@
+tqdm
+colorama
+geocoder
+advertools
+pythonping
+dnspython
