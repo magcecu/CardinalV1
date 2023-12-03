@@ -11,7 +11,7 @@ Read instructions!
 
 # Creators
 MagCecu#3747 - Owner of the Mag Market 
-inv: https://discord.gg/GFsUxKr84a
+inv: https://discord.gg/P8sKTTndqk
 
 # Support
 Paypal:                                                                                                                           
